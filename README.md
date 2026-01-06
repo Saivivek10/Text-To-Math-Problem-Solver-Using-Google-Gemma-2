@@ -15,6 +15,11 @@ This project is a **Streamlit-based web application** that leverages **LangChain
 2. **Choose Tools**: The app uses tools like a calculator, reasoning engine, and Wikipedia search to process your query.
 3. **Get Results**: The assistant provides detailed answers and explanations.
 
+## Screenshot
+
+<img width="1512" height="982" alt="Math Problem" src="https://github.com/user-attachments/assets/66986953-1ed1-4479-a91c-846a78b17a15" />
+
+
 ## Installation
 
 1. Clone the repository:
